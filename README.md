@@ -1,13 +1,13 @@
-# Hi there 
+# Hi there! 
 
- ## Ciao sono Gloria, amo creare esperienze web uniche!
+ ## Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist:
 
 # I MIEI LAVORI:
 
 ## - Tongy => [platform.tongy.it](platform.tongy.it)
-Tongy è una web app che si propone di aiutare le mamme ad insegnate l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
+Tongy è una web app che si propone di aiutare le mamme ad insegnare l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
 
-TECH STACK: 
+ TECH STACK: 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
