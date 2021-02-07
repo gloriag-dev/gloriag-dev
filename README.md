@@ -14,12 +14,14 @@ In questo github troverete i miei codici e i miei lavori, oggi sono pochi ma un 
 
 ### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
 Son entrata a far parte della startup Tongy per dare un boost alla mia formazione in ambito dev e sono stata seguita da un Senior Developer che mi ha trasmesso l'amore per la programmazione e i principi di base architetturali di sviluppo backend in NodeJS.
+
+
 Ho partecipato a:
 
 - Definizione dei requisiti funzionali
 - Customer support
 - Creazione dell'interfaccia in React sia della paittaforma che della parte amministrativa
-- Creazione delle API CRUD per la manipolazione delle entità del databse
+- Creazione delle API CRUD per la manipolazione delle entità del database
 
 
 __TECH STACK__
@@ -37,6 +39,7 @@ __TECH STACK__
 </p>
 
 ### YOBU Website - 🔨Work in progress🔨 
+
 
 __TECH STACK__
 
