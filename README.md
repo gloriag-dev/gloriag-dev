@@ -4,10 +4,11 @@ Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist: 🖥️ 
 
 ## I miei lavori
 
-### Tongy ➡️ [platform.tongy.it](https://platform.tongy.it)
+### Tongy - [platform.tongy.it](https://platform.tongy.it)
 Tongy è una web app che si propone di aiutare le mamme ad insegnare l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
 
 __TECH STACK__
+
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -19,9 +20,10 @@ __TECH STACK__
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
-### YOBU Website ➡️ 🔨Work in progress🔨 
+### YOBU Website - 🔨Work in progress🔨 
 
 __TECH STACK__
+
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
