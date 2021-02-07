@@ -4,7 +4,7 @@
 
 # I MIEI LAVORI:
 
-## - Tongy => [platform.tongy.it](platform.tongy.it)
+## - Tongy => [platform.tongy.it](https://platform.tongy.it)
 Tongy è una web app che si propone di aiutare le mamme ad insegnare l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
 
  TECH STACK: 
