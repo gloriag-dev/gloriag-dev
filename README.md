@@ -13,7 +13,14 @@ In questo github troverete i miei codici e i miei lavori, oggi sono pochi ma un 
 ## I miei lavori
 
 ### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
-Tongy è una web app che si propone di aiutare le mamme ad insegnare l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
+Son entrata a far parte della startup Tongy per dare un boost alla mia formazione in ambito dev e sono stata seguita da un Senior Developer che mi ha trasmesso l'amore per la programmazione e i principi di base architetturali di sviluppo backend in NodeJS.
+Ho partecipato a:
+
+- Definizione dei requisiti funzionali
+- Customer support
+- Creazione dell'interfaccia in React sia della paittaforma che della parte amministrativa
+- Creazione delle API CRUD per la manipolazione delle entità del databse
+
 
 __TECH STACK__
 
@@ -39,7 +46,11 @@ __TECH STACK__
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
+
 ## Le tecnologie che amo
+Sto studiando molte tecnologie sia Backend che Frontend per diventare un giorno un Full Stack Developer. 
+
+Attualmente mi sto concentrando sullo sviluppo frontend e sulla creazione di esperienze web uniche e curate nel design. Sono soddisfatta del mio lavoro solo se è bello, funzionale ed intuitivo.
 
 ### Frontend
 <p float="left">
