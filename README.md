@@ -2,9 +2,17 @@
 
 Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist: 🖥️ 💻 📱
 
+
+Da tantissimo tempo volevo diventare una sviluppatrice e l'anno scorso ho avuto il coraggio di __rivoluzionare la mia vita definitivamente__ abbracciando il coding. 
+
+
+Ho frequentato un corso e prima della fine la mia azienda attuale deciso di credere in me portandomi a 📍_Monza_, da li tutto è iniziato e un giorno sarò anche io una Full Stack Developer. 
+
+
+In questo github troverete i miei codici e i miei lavori, oggi sono pochi ma un giorno saranno tantissimi. 
 ## I miei lavori
 
-### Tongy - [platform.tongy.it](https://platform.tongy.it)
+### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
 Tongy è una web app che si propone di aiutare le mamme ad insegnare l'inglese ai propri figli. Ha un'interfaccia accattivante, è ricco di attività e giochi sempre nuovi per rendere l'apprendimento il più divertente possibile.
 
 __TECH STACK__
