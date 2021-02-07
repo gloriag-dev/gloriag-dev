@@ -1,6 +1,6 @@
 # Hi there! 
 
- ## Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist:
+Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist:
 
 # I MIEI LAVORI:
 
