@@ -39,7 +39,9 @@ __TECH STACK__
 </p>
 
 ### YOBU Website - 🔨Work in progress🔨 
+Sto creando in NextJS il sito di YOBU, questa volta ho deciso di aumentare il livello di cura dei dettagli  utilizzando [react-spring](https://www.react-spring.io/) per le animazioni
 
+Stay Tuned 
 
 __TECH STACK__
 
