@@ -20,7 +20,7 @@ Ho partecipato a:
 
 - Definizione dei requisiti funzionali
 - Customer support
-- Creazione dell'interfaccia in React sia della paittaforma che della parte amministrativa
+- Creazione dell'interfaccia in React sia della piattaforma che della parte amministrativa
 - Creazione delle API CRUD per la manipolazione delle entità del database
 
 
