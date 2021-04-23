@@ -1,27 +1,26 @@
 # Hi there!  
 
-Ciao sono Gloria, amo creare esperienze web uniche!:woman_technologist: 🖥️ 💻 📱
+Helo, my name is Gloria, I love to create __unforgettable__ and __enjoyable__ web experiences !:woman_technologist: 🖥️ 💻 📱
+
+It's been a long time since I first desired to become a developer and last year I took the chance to __shake up my life__ embracing the art of coding.
+
+July 2020 - I enrolled in a Full-Stack course but before the end of it I was hired at __RED Software System__ as Junior Developer intern in 📍Monza, Italy. That's where __IT ALL__ begun and one day I'll become a full stack developer as well💻. While not working I always took a chance to learn and code for personal projects, that helped me land a better position: I am now a Frontend Developer @ __Open Reply__ and I moved to my favourity city in Italy, 📍Milan.
 
 
-Da tantissimo tempo volevo diventare una sviluppatrice e l'anno scorso ho avuto il coraggio di __rivoluzionare la mia vita definitivamente__ abbracciando il coding. 
+Here in this repo you can find my tech stack, my work experience and my projects, one day there'll be plenty of them!
 
-
-Ho frequentato un corso e prima della fine la mia azienda attuale deciso di credere in me portandomi a 📍Monza, da li tutto è iniziato e un giorno sarò anche io una Full Stack Developer💻.
-
-
-In questo github troverete i miei codici e i miei lavori, oggi sono pochi ma un giorno saranno tantissimi. 
-## I miei lavori
+## My projects
 
 ### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
-Son entrata a far parte della startup Tongy per dare un boost alla mia formazione in ambito dev e sono stata seguita da un Senior Developer che mi ha trasmesso l'amore per la programmazione e i principi di base architetturali di sviluppo backend in NodeJS.
+I joined the team of Tongy ( a fresh startup) to boost my professional development as coder and I was followed by a Senior Developer who shared his passion for programming with me, listened to my goals and helped me achieve them. He also taught me the Node.js' architecture pattern.
 
 
-Ho partecipato a:
+My responsibilities were:
 
-- Definizione dei requisiti funzionali
+- Defining functional requirements
 - Customer support
-- Creazione dell'interfaccia in React sia della piattaforma che della parte amministrativa
-- Creazione delle API CRUD per la manipolazione delle entità del database
+- Creating React UI as well as Back Office/Admin platform (also written in React)
+- Creating CRUD API to manipulate database entities
 
 
 __TECH STACK__
@@ -40,7 +39,7 @@ __TECH STACK__
 </p>
 
 ### YOBU Website - 🔨Work in progress🔨 
-Sto creando in NextJS il sito di YOBU, questa volta ho deciso di aumentare il livello di cura dei dettagli  utilizzando [react-spring](https://www.react-spring.io/) per le animazioni
+I'm using Next.js for YOBU Website, this time I also decide give more attention to details using [react-spring](https://www.react-spring.io/)for animations.
 
 Stay Tuned 
 
@@ -53,10 +52,11 @@ __TECH STACK__
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-## Le tecnologie che amo
-Sto studiando molte tecnologie sia Backend che Frontend per diventare un giorno un Full Stack Developer. 
+## Tools I __LOVE__
+I'm studying various programming languages and tools both Backend and Frontend
 
-Attualmente mi sto concentrando sullo sviluppo frontend e sulla creazione di esperienze web uniche e curate nel design. Sono soddisfatta del mio lavoro solo se è bello, funzionale ed intuitivo.
+To develop my portfolio I focused on the Frontend and used Next.js for its server-side rendering, my goal is to create amazing web experiences with keen attemtion to design details. I'm not satisfied with my work until it's beautiful, functional and intuitive.
+
 
 ### Frontend
 <p float="left">
