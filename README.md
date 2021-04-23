@@ -1,10 +1,10 @@
 # Hi there!  
 
-Helo, my name is Gloria, I love to create __unforgettable__ and __enjoyable__ web experiences !:woman_technologist: 🖥️ 💻 📱
+Hello hello hello, my name is Gloria, I love to create __unforgettable__ and __enjoyable__ web experiences !:woman_technologist: 🖥️ 💻 📱
 
 It's been a long time since I first desired to become a developer and last year I took the chance to __shake up my life__ embracing the art of coding.
 
-July 2020 - I enrolled in a Full-Stack course but before the end of it I was hired at __RED Software System__ as Junior Developer intern in 📍Monza, Italy. That's where __IT ALL__ begun and one day I'll become a full stack developer as well💻. While not working I always took a chance to learn and code for personal projects, that helped me land a better position: I am now a Frontend Developer @ __Open Reply__ and I moved to my favourity city in Italy, 📍Milan.
+July 2020 - I enrolled in a Full-Stack course but before the end of it I was hired at __RED Software Systems__ as Junior Developer intern in 📍Monza, Italy. That's where __IT ALL__ begun and one day I'll become a full stack developer as well💻. While not working I always take a chance to learn and code for personal projects, which helped me land a better position: I am now a Frontend Developer @ __Open Reply__ and I moved to my favourite city in Italy, 📍Milan.
 
 
 Here in this repo you can find my tech stack, my work experience and my projects, one day there'll be plenty of them!
@@ -39,7 +39,7 @@ __TECH STACK__
 </p>
 
 ### YOBU Website - 🔨Work in progress🔨 
-I'm using Next.js for YOBU Website, this time I also decide give more attention to details using [react-spring](https://www.react-spring.io/)for animations.
+I'm using Next.js for YOBU Website, this time I also decide to give further attention to details using [react-spring](https://www.react-spring.io/)for animations.
 
 Stay Tuned 
 
@@ -55,7 +55,7 @@ __TECH STACK__
 ## Tools I __LOVE__
 I'm studying various programming languages and tools both Backend and Frontend
 
-To develop my portfolio I focused on the Frontend and used Next.js for its server-side rendering, my goal is to create amazing web experiences with keen attemtion to design details. I'm not satisfied with my work until it's beautiful, functional and intuitive.
+To develop my portfolio I focused on the Frontend and used Next.js for its server-side rendering, my goal is to create amazing web experiences with keen attention to design details. I'm not satisfied with my work until it's beautiful, functional and intuitive.
 
 
 ### Frontend
