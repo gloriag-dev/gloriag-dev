@@ -4,7 +4,6 @@ Hello hello hello, my name is Gloria, I love to create __unforgettable__ and __e
 
 It's been a long time since I first desired to become a developer and last year I took the chance to __shake up my life__ embracing the art of coding.
 
-July 2020 - I enrolled in a Full-Stack course but before the end of it I was hired at __RED Software Systems__ as Junior Developer intern in 📍Monza, Italy. That's where __IT ALL__ begun and one day I'll become a full stack developer as well💻. While not working I always take a chance to learn and code for personal projects, which helped me land a better position: I am now a Frontend Developer @ __Open Reply__ and I moved to my favourite city in Italy, 📍Milan.
 
 
 Here in this repo you can find my tech stack, my work experience and my projects, one day there'll be plenty of them!
@@ -12,8 +11,10 @@ Here in this repo you can find my tech stack, my work experience and my projects
 ## My projects
 
 ### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
-I joined the team of Tongy ( a fresh startup) to boost my professional development as coder and I was followed by a Senior Developer who shared his passion for programming with me, listened to my goals and helped me achieve them. He also taught me the Node.js' architecture pattern.
+I joined the team of Tongy ( a fresh startup) to boost my professional development as coder and I was followed by a Senior Developer who shared his passion for programming with me, listened to my goals and helped me achieve them. He also taught me Node.js' architecture pattern.
 
+### The Cocktail DB
+"Go Home! You're drunk". Yep, this is the text of the button I created for my second project: The Cocktail DB. As the name suggests it is a simple web application which displays a list of cocktails and some cool actions like drinks/ingredients lookup and more. I developed it using my favourite JS library - React.
 
 My responsibilities were:
 
