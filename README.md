@@ -13,7 +13,7 @@ Here in this repo you can find my tech stack, my work experience and my projects
 ### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
 I joined the team of Tongy ( a fresh startup) to boost my professional development as coder and I was followed by a Senior Developer who shared his passion for programming with me, listened to my goals and helped me achieve them. He also taught me Node.js' architecture pattern.
 
-### The Cocktail DB
+### The Cocktail DB - [https://gloriag-dev.github.io/the_cocktail_db/](https://gloriag-dev.github.io/the_cocktail_db/)
 "Go Home! You're drunk". Yep, this is the text of the button I created for my second project: The Cocktail DB. As the name suggests it is a simple web application which displays a list of cocktails and some cool actions like drinks/ingredients lookup and more. I developed it using my favourite JS library - React.
 
 My responsibilities were:
