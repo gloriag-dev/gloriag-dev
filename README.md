@@ -20,12 +20,6 @@ My responsibilities were:
 - Creating React UI as well as Back Office/Admin platform (also written in React)
 - Creating CRUD API to manipulate database entities
 
-### The Cocktail DB - [https://gloriag-dev.github.io/the_cocktail_db/](https://gloriag-dev.github.io/the_cocktail_db/)
-"Go Home! You're drunk". Yep, this is the text of the button I created for my second project: The Cocktail DB. As the name suggests it is a simple web application which displays a list of cocktails and some cool actions like drinks/ingredients lookup and more. I developed it using my favourite JS library - React.
-
-### Squid Game - Green Light - [https://gloriag-dev.github.io/squid_game/](https://gloriag-dev.github.io/squid_game/)
-A game inspired by Netflix's Squid Game Episode 1 - Green Light, Red Light. I used HTML, CSS, JS, Three.js and GSAP. It was really fun trying to animate that creepy doll.
-
 
 
 __TECH STACK__
@@ -42,6 +36,16 @@ __TECH STACK__
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+
+### The Cocktail DB - [https://gloriag-dev.github.io/the_cocktail_db/](https://gloriag-dev.github.io/the_cocktail_db/)
+"Go Home! You're drunk". Yep, this is the text of the button I created for my second project: The Cocktail DB. As the name suggests it is a simple web application which displays a list of cocktails and some cool actions like drinks/ingredients lookup and more. I developed it using my favourite JS library - React.
+
+### Squid Game - Green Light - [https://gloriag-dev.github.io/squid_game/](https://gloriag-dev.github.io/squid_game/)
+A game inspired by Netflix's Squid Game Episode 1 - Green Light, Red Light. I used HTML, CSS, JS, Three.js and GSAP. It was really fun trying to animate that creepy doll.
+
+
+
 
 ### YOBU Website - 🔨Work in progress🔨 
 I'm using Next.js for YOBU Website, this time I also decide to give further attention to details using [react-spring](https://www.react-spring.io/)for animations.
