@@ -45,22 +45,6 @@ __TECH STACK__
 A game inspired by Netflix's Squid Game Episode 1 - Green Light, Red Light. I used HTML, CSS, JS, Three.js and GSAP. It was really fun trying to animate that creepy doll.
 
 
-
-
-### YOBU Website - 🔨Work in progress🔨 
-I'm using Next.js for YOBU Website, this time I also decide to give further attention to details using [react-spring](https://www.react-spring.io/)for animations.
-
-Stay Tuned 
-
-__TECH STACK__
-
-<p float="left">
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
-
 ## Tools I __LOVE__
 I'm studying various programming languages and tools both Backend and Frontend
 
