@@ -41,8 +41,6 @@ __TECH STACK__
 ### The Cocktail DB - [https://gloriag-dev.github.io/the_cocktail_db/](https://gloriag-dev.github.io/the_cocktail_db/)
 "Go Home! You're drunk". Yep, this is the text of the button I created for my second project: The Cocktail DB. As the name suggests it is a simple web application which displays a list of cocktails and some cool actions like drinks/ingredients lookup and more. I developed it using my favourite JS library - React.
 
-### Squid Game - Green Light - [https://gloriag-dev.github.io/squid_game/](https://gloriag-dev.github.io/squid_game/)
-A game inspired by Netflix's Squid Game Episode 1 - Green Light, Red Light. I used HTML, CSS, JS, Three.js and GSAP. It was really fun trying to animate that creepy doll.
 
 
 ## Tools I __LOVE__
