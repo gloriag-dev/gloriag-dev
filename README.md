@@ -10,7 +10,7 @@ Here in this repo you can find my tech stack, my work experience and my projects
 
 ## My projects
 
-### Tongy - [https://platform.tongy.it](https://platform.tongy.it)
+### Tongy - [https://www.tongy.it/](https://www.tongy.it/)
 I joined the team of Tongy ( a fresh startup) to boost my professional development as coder and I was followed by a Senior Developer who shared his passion for programming with me, listened to my goals and helped me achieve them. He also taught me Node.js' architecture pattern.
 
 My responsibilities were:
